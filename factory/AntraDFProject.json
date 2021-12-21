@@ -1,0 +1,9 @@
+{
+	"name": "AntraDFProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc7596b5-3f79-4102-af0a-1606b3fc72fa",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
